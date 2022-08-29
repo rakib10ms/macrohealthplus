@@ -1,0 +1,118 @@
+.home-1st-note {
+    font-size: 14px;
+    /* font-weight: 500; */
+    display: block;
+}
+
+.todyas-report {
+    font-size: 14px;
+    /* font-weight: 500; */
+
+}
+
+.btn-chipa {
+    height: 20px;
+    width: 20px;
+    background-color: white;
+    color: #69B128;
+    border-radius: 50%;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.btn-chipa-update {
+    height: 20px;
+    width: 20px;
+    background-color: #69B128;
+    color: white;
+    border-radius: 50%;
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.act {
+    background: #ffffff;
+    border-radius: 4px;
+    /* color:#69B128; */
+    padding: 0px 7px;
+}
+
+
+.p-color {
+    font-size: 13px;
+    font-weight: 400;
+    color: white;
+}
+
+.p-color-update {
+    font-size: 13px;
+    font-weight: 400;
+    color: #69B128;
+}
+
+
+.next-btn {
+    background-color: #69B128;
+    padding: 3px 18px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
+
+.btns {
+    background-color: #69B128;
+    padding: 4px 14px;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+
+.mobile {
+    height: 370px;
+    width: 200px;
+    background-color: rgba(105, 177, 40, 0.5);
+    border-radius: 15%;
+
+
+}
+
+.foot1 {
+    height: 16px;
+    width: 16px;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+.foot2 {
+    height: 15px;
+    width: 72px;
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.fott {
+    height: 30px;
+    width: 30px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    /* margin-bottom: -4px; */
+}
+
+.sidebarhover :hover {
+    /* background-color: rgba(105, 177, 40, 0.5); */
+    /* padding: 3px 6px; */
+    color: #69B128;
+    /* border-radius: 1px;
+    display: block; */
+}
+
+.addButtonStyle{
+    color: #69B128;
+
+}

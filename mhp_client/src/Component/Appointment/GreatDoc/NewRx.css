@@ -1,0 +1,243 @@
+.top-hr  {
+    margin: 0.3rem 0 !important;
+}
+.new-rx-container .tab-content {
+    border: none !important;
+    border-top: 0;
+    padding: 0.1rem 0.5rem !important;
+    text-align: justify;
+}
+.new-rx-container .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff!important;
+    border-left: none !important;
+    background-color: transparent !important;
+    background: #69B128 !important;
+    font-size: 11px !important;
+}
+.new-rx-container .nav-pills .nav-link {
+    border: none;
+    padding: 0.5rem 1rem !important;
+}
+.new-rx-container .nav-link {
+    font-size: 11px;
+    color: #495057 !important;
+    background-color: #fff;
+    border-radius: 5px !important;
+    box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.15) !important;
+}
+.new-rx-container .nav-pills {
+    border-bottom: none !important;
+    padding-bottom: 1rem;
+}
+.new-rx-container .form-check-label {
+    min-height: 14px !important;
+    margin-left: 0.5rem !important;
+    font-size: 0.875rem;
+}
+.rx-bg-white {
+    background-color: #fff;
+    color:#363636;
+    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.05) !important;
+    border-radius: 5px;
+}
+.rx-search-container .form-select-sm {
+    border-radius: 2rem !important;
+}
+.rx-sort-list {
+    font-size: 14px;
+    cursor:pointer;
+}
+.rx-fav-btn {
+    background-color: #D1D1D1;
+    font-size: 14px;
+    border-radius:2rem;
+}
+.rx-fav-btn.btn-sm {
+    padding: 0.25rem 2rem !important;
+    font-size: .875rem;
+    border-radius: 2rem !important;
+}
+.rx-first-step-right button {
+    font-weight: 500;
+}
+.formulation-header h6 {
+    font-size: 14px;
+}
+.formulation-header .form-control-sm {
+    border-radius: 2rem !important;
+}
+.formulation-header {
+    border-bottom:1px solid #c4c4c4;
+    margin-bottom: 10px;
+}
+.rx-table-first-row td{
+    color:#363636;
+    font-weight: 500;
+}
+.rx-table-first-row{
+    border-bottom: 1px solid #c4c4c4 !important;
+}
+.formulation-table table {
+    table-layout: fixed;
+    overflow-x: auto;
+    width: 100%;
+}
+.formulation-table tr {
+    cursor:pointer;
+}
+.formulation-table tr td {
+    font-size: 12px;
+    padding: 3px;
+}
+.formulation-table {
+    height:150px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.rx-table-active td {
+    background-color: #DADADA;
+}
+.rx-medicine-detail {
+    height: 110px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.rx-medicine-detail-header h6 {
+    font-size: 12px;
+}
+.rx-search-container .css-16awh2u-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+    padding: 0.5px 4px 0.5px 0px !important;
+}
+.rx-one-button-group button {
+    background-color: #69B128;
+    color:#fff;
+    padding:3px 7px;
+    font-size: 13px;
+}
+.rx-one-button-group i {
+    font-size: 13px;
+}
+.rx-one-button-group .form-check-label {
+    min-height: 14px !important;
+    margin-left: 0.5rem !important;
+    font-size: 0.775rem;
+    margin-top:3px;
+}
+.rx-about-medicine  {
+    height: 110px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.rx-about-medicine  h6{
+    font-size: 15px;
+}
+.rx-about-medicine  hr {
+    margin: 0.3rem 0 !important;
+}
+.rx-about-medicine  p {
+    margin-bottom: 0.4rem !important;
+    font-weight: 400;
+}
+.dose-detail p{
+    font-weight: 500;
+    margin-bottom: 0.2rem !important;
+}
+.dose-detail .dose-name{
+    font-weight: 400;
+    border-bottom: 1px solid rgb(190, 190, 190);
+    width:150px;
+    padding-left: 5px;
+    color:#363636;
+}
+.rx-fav-dose {
+    margin-top: -20px;
+}
+
+.instruction  h6{
+    font-size: 13px;
+}
+.instruction  hr {
+    margin: 0.3rem 0 !important;
+}
+.rx-s2-radio-group .form-check-label {
+    margin-left: 0.5rem !important;
+    font-size: 0.75rem;
+}
+.rx-label {
+    font-weight: 500;
+}
+.rx-s4-reson {
+    min-height: 175px;
+}
+.rx-s4-reson h6 {
+    font-size: 13px;
+    color:#737373;
+}
+/* .rx-s4-reson .css-16awh2u-MuiAutocomplete-root .MuiOutlinedInput-root .MuiAutocomplete-input {
+    padding: 0.5px 4px 0.5px 0px !important;
+} */
+.Vrx-further-detail h6 {
+    font-size: 13px;
+}
+.rx-s3-checkgroup {
+    margin-top: -10px;
+}
+.rx-s3-checkgroup .form-check {
+    display: block;
+    min-height: 1rem !important;
+    padding-left: 1.5em;
+    margin-bottom: 0.125rem;
+}
+.rx-regulation {
+    margin-top: 30px;
+}
+
+
+/* .MimsData {
+    height:450px;
+    overflow: hidden;
+    overflow-y: scroll;
+} */
+
+.mimsDataTable{
+    width: 100%;
+}
+.mimsDataTable tr td{
+    border: 1px solid #85B5D9;
+    padding: 7px;
+
+}
+
+
+.MTableHeader-header-15 {
+    z-index: 0 !important;
+}
+
+.alertDesc {
+    text-align: center;
+    height: 165px;
+    overflow-x: scroll;
+}
+.mims-list {
+    border: 1px solid #cac7d3;
+    border-radius: 3px;
+    height:83vh ;
+    overflow: hidden;
+    overflow-y: auto;
+}
+.mims-list ul {
+    padding-left: 0.1rem;
+    list-style-type: none;
+    margin-bottom: 0.1rem;
+}
+.mims-list ul li{
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+}
+.mims-list ul li:hover{
+    background-color: #e7e4e4;
+}
+.fvdInput{
+    margin-top: 12px;
+    margin-left: -10px;
+}

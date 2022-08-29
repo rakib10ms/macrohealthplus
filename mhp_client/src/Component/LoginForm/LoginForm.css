@@ -1,0 +1,39 @@
+.login-bg-img{
+    padding: 0px; 
+    margin: 0px;
+    height: 720px;;
+    width: 100%;
+    background-image: url(../../Images/background.png);
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color: transparent 0.7%;
+   
+}
+.form-control {
+    border-color: #69B128;
+    
+}
+
+#gridCheck{
+    background-color: #69B128;
+}
+.text-login,
+.text-register,
+.forgot-password {
+    color: #69B128;
+    
+}
+
+/* .border-end{
+    height:720px;
+    box-shadow: 5px 0px 0px grey;
+} */
+
+h3.Intigra {
+    font-family: auto;
+}
+.keepMeSiginIn{
+    margin-top: 5px;
+}
+

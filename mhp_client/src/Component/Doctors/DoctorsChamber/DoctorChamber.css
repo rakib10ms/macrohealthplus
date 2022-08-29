@@ -1,0 +1,57 @@
+
+.line {
+    border-bottom: 3px solid #c3c3c3c3;
+}
+.whole-wrapper{
+    background-color: #FFFFFF;
+    min-height: 80vh;
+
+}
+
+.top-header {
+    display: flex;
+
+}
+
+.buttonStyle {
+    background: #69B128;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    float: right;
+    padding: 10px 45px;
+    margin-bottom: 7px;
+    
+}
+.buttonStyleCancel{
+    background: transparent;
+    color: black;
+    border: 1px solid #69B128;
+    border-radius: 8px;
+    float: right;
+    padding: 10px 40px;
+    
+}
+/* .doctosChamber {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-top:10px;
+}
+
+.doctosChamber td,
+th {
+    border: 1px solid #d2d2d2;
+    text-align: left;
+    padding: 13px;
+} */
+
+/* .left-column{
+    width: 15%;
+    font-weight: bold;
+    text-transform: uppercase;
+
+} */
+.check{
+    width: 15px; height: 15px;
+}

@@ -1,0 +1,280 @@
+.diagnosis-table{
+  border-collapse: collapse;
+  border: 1px solid #E4DDDD;
+  width: 100%;
+}
+.diagnosis-table-row tr{
+  border: 1px solid #E4DDDD;
+  text-align: left;
+  padding: 8px;
+}
+.diagnosis-head{
+    background-color:#E7E7E7 
+}
+.diagnosis-table td{
+    border: 1px solid #E4DDDD;
+    font-size: 12px;
+    padding: 2px;
+
+}
+.diagnosis-table th{
+    border: 1px solid #E4DDDD;
+
+}
+.diagnosisBoxes{
+    margin-top: -10px;
+}
+.diagnosisSelectBox{
+    width: 75%;
+    height: 35px;
+    font-size: 14px;
+}
+.autoFeelBoxes{
+    width: 75%;
+    height: 40px;
+}
+
+.procedure-container .nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff!important;
+    border-left: none !important;
+    background-color: transparent !important;
+    background: #69B128 !important;
+    font-size: 11px !important;
+    
+}
+.procedure-container .nav-pills .nav-link {
+    border: none;
+    padding: 0.5rem 1rem !important;
+}
+.procedure-container .nav-link {
+    font-size: 11px;
+    color: #495057 !important;
+    background-color: #fff;
+    border-radius: 5px !important;
+    box-shadow: 0px 0px 14px 5px rgba(0, 0, 0, 0.15) !important;
+    height: 50px !important;
+    margin-bottom: 1px;
+}
+.procedure-container .nav-pills {
+    border-bottom: none !important;
+    padding-bottom: 1rem;
+}
+
+/* Review */
+
+.reviewContainer{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+    padding-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    background: #ffffff;
+    padding-bottom: 30px;
+    margin: auto;
+}
+.review-text{
+    font-size: 16px;
+    margin-left: 38%;
+    padding-top: 8px;
+    position: relative;
+}
+.review-select{
+    width: 25%;
+    margin-left: 34%;
+    font-size: 12px;
+    height: 35px;
+    position: absolute;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}
+.review-select-two{
+    position: relative;
+    width: 25%;
+    margin-left: 34%;
+    font-size: 12px;
+    height: 35px;
+    border-radius: 10px;
+    position: absolute;
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}
+.review_textarea{
+    position: relative;
+    border-radius: 10px;
+    margin-left: 85px;
+    margin-top: -6px;
+    border: 0.5px solid rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}
+.date_text{
+    position: relative;
+    margin-left: -18%;
+    padding-top: 10px;
+}
+.date_picker{
+    width: 25%;
+    height: 35px;
+    position: absolute;
+    margin-right: -29%;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}
+.reminder-checkbox{
+    display: flex;
+    margin-left: 54%;
+    margin-top: 10px;
+}
+.check-text{
+    margin-top: -4px;
+}
+.last_text{
+    margin-right: 15%;
+    padding-top: 10px;
+    position: relative;
+}
+.other_textarea{
+    position: absolute;
+    margin-left: 29%;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}
+.review-btn{
+    margin-right: 90px;
+    margin-top: 10px;
+}
+.review-btn-right{
+    float: right;
+    margin-left: 10px;
+    padding: 6px 14px;
+    color: #D4D4D4;
+    background: #69B128;
+    border-radius: 10px;
+    border: 1px solid #69B128;
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}  
+.review-btn-left{
+    float: right;
+    padding: 6px 16px;
+    color: #ffffff;
+    background: #69B128;
+    border-radius: 10px;
+    border: 1px solid #69B128;
+    box-shadow: 0px 0px 2.65739px 0.231478px rgba(0, 0, 0, 0.25);
+}
+
+
+/*--------------- autoFeel -----------------*/
+
+.autofeelContainer{
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 4px 1px rgba(0, 0, 0, 0.25);
+    padding-top: 20px;
+    padding-Left: 20px;
+    border-radius: 5px;
+    background: #ffffff;
+}
+
+.autofeelButton button{
+    background: #EAEAEA;
+    width: 120px;
+    height: 30px;
+    margin-left: 65px;
+    margin-bottom: 6px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+    margin-top: 12px;
+}
+.autoFeelTextArea{
+    display: flex;
+    width: 75%;
+    margin-left: 25%;
+    margin-top: -15px;
+}
+.autofeelSaveCancelBtn button{
+   color: #ffffff;
+   background-color: #69B128;
+   width: 100px;
+   height: 30px;
+   border: 1px solid #ced4da;
+   margin-top: 15px;
+   border-radius: 5px;
+}
+.procedure-table-row{
+    background: #E7E7E7;
+}
+.MTableHeader-header-13 {
+    top: 0;
+    z-index: 0 !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked {
+    color: #777777 !important;
+}
+
+.MTableToolbar-highlight-6 {
+    color: #312e2e !important;
+    background-color: rgb(206 204 204) !important;
+}
+.jss6{
+    color: #312e2e !important;
+    background-color: rgb(206 204 204) !important; 
+}
+
+.jss9{
+    color: #312e2e !important;
+    background-color: rgb(206 204 204) !important; 
+}
+
+.MuiTypography-h6{
+    margin-right: 20px !important;
+}
+
+.MTableHeader-header-12 {
+    z-index: 0 !important;
+}
+
+.doctor-prescription-menu .printDisabledbtn {
+    background-color: #f4f4f4 !important;
+    color: #d8d8d8 !important;
+}
+
+.jss13 {
+    z-index:0 !important;
+}
+
+.MTableHeader-header-45 {
+    top: 0;
+    z-index: 0 !important;
+    position: sticky;
+}
+
+.MTableHeader-header-31 {
+    top: 0;
+    z-index: 0 !important;
+    position: sticky;
+    background-color: #fff;
+}
+.digonasisCloseModel {
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 6px;
+    margin-right: -15px;
+}
+
+.PrescribedRxDelete {
+    color: #424242;
+    cursor: pointer;
+    text-align: center;
+}
+
+.PrescribedRxDelete:hover {
+    color: red;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+th.MuiTableCell-root.MuiTableCell-head.MTableHeader-header-13.MuiTableCell-paddingNone {
+    width: 5% !important;
+}

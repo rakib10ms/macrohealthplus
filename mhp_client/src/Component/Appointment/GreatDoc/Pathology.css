@@ -1,0 +1,10 @@
+.favorite_test_box{
+    border: 1px solid gray;
+}
+.billing_radio_box{
+    border: 1px solid gray;
+    padding-left: 8px;
+}
+/* .direct_bill{
+    padding-top: -10px !important;
+} */
